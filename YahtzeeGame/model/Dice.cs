@@ -29,7 +29,7 @@ namespace YahtzeeGame.model
 
         public int Roll()
         {
-            return 0;
+            return 1;
         }
     }
 }
