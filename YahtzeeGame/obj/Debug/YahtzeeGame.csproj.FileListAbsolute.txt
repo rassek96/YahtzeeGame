@@ -7,3 +7,6 @@ C:\Users\Rasmus\Desktop\2DV610\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.pdb
 C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe.config
 C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.exe
 C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.pdb
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.pdb
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csprojResolveAssemblyReference.cache

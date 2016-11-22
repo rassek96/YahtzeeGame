@@ -7,3 +7,13 @@ C:\Users\Rasmus\Desktop\2DV610\YahtzeeGame\YahtzeeGame.Test\bin\Debug\nunit.fram
 C:\Users\Rasmus\Desktop\2DV610\YahtzeeGame\YahtzeeGame.Test\obj\Debug\YahtzeeGame.Test.csprojResolveAssemblyReference.cache
 C:\Users\Rasmus\Desktop\2DV610\YahtzeeGame\YahtzeeGame.Test\obj\Debug\YahtzeeGame.Test.dll
 C:\Users\Rasmus\Desktop\2DV610\YahtzeeGame\YahtzeeGame.Test\obj\Debug\YahtzeeGame.Test.pdb
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame.Test\bin\Debug\YahtzeeGame.Test.dll
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame.Test\bin\Debug\YahtzeeGame.Test.pdb
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame.Test\bin\Debug\nunit.framework.dll
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame.Test\bin\Debug\nunit.mocks.dll
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame.Test\bin\Debug\YahtzeeGame.exe
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame.Test\bin\Debug\YahtzeeGame.pdb
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame.Test\bin\Debug\nunit.framework.xml
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame.Test\obj\Debug\YahtzeeGame.Test.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame.Test\obj\Debug\YahtzeeGame.Test.dll
+C:\Users\Rasmus\Desktop\2DV610\A1.2\YahtzeeGame\YahtzeeGame.Test\obj\Debug\YahtzeeGame.Test.pdb

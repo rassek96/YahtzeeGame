@@ -14,6 +14,8 @@ namespace YahtzeeGame.Test
         public void ShouldReturnDiceValue()
         {
             model.Dice sut = new model.Dice();
+            int expected = sut.Roll();
+            Assert.That(expected, Is.InRange(1, 6));
         }
     }
 }
