@@ -29,7 +29,9 @@ namespace YahtzeeGame.model
 
         public int Roll()
         {
-            return 1;
+            Random rnd = new Random();
+            int value = rnd.Next(1, 7);
+            return value;
         }
     }
 }
