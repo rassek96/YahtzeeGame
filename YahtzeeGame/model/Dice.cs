@@ -6,32 +6,35 @@ using System.Threading.Tasks;
 
 namespace YahtzeeGame.model
 {
-    public class Dice
+    class Dice
     {
-        private int _value;
+        private List<Die> _dice = new List<Die>();
 
         public Dice()
         {
-            _value = 0;
+            for(int i = 0; i < 5; i++)
+            {
+                _dice.Add(new Die());
+            }
         }
 
-        public int Value
+        public List<Die> GetDice()
         {
-            get
-            {
-                return _value;
-            }
-            set
-            {
-                _value = value;
-            }
+            return _dice;
         }
 
-        public int Roll()
+        public void Roll()
         {
             Random rnd = new Random();
-            int value = rnd.Next(1, 7);
-            return value;
+
+            foreach(Die die in _dice)
+            {
+                if(!die.Save)
+                {
+                    int value = rnd.Next(1, 7);
+                    die.Value = value;
+                }
+            }
         }
     }
 }

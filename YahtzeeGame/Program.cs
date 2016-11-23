@@ -11,6 +11,8 @@ namespace YahtzeeGame
         static void Main(string[] args)
         {
             Console.Title = "Yahtzee";
+            controller.PlayGame PlayGame = new controller.PlayGame();
+            PlayGame.WelcomeUser();
         }
     }
 }
